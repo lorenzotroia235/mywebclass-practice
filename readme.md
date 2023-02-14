@@ -48,6 +48,10 @@ respective GitHub repos into Canvas.
 7. Once you have the remote changes merged then start a new feature and repeat this process.
 
 # Install Instructions
+1. [Mac](#)
+2. [Windows](#)
+3. [Linux Ubuntu](#)
+4. [Ubuntu Server](#)
 
 # Initial Setup - Team Leader
 
@@ -113,4 +117,6 @@ respective GitHub repos into Canvas.
    rebuilding the dockerfile manually because of the volume share setup by the docker compose file.
 4. "npm run clean" Deletes anything in the public_html folder.
 5. "npx playwright test" <- Run the playwright tests
+
+
 
